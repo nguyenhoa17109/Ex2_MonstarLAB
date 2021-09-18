@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Ex2_MonstarLAB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_20_00">20,00€</string>
+    <string name="name_acc">Nina te ha enviado</string>
+    <string name="view_detail">VER DETALLES</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="por_la_cena">Por la cena... 🍕</string>
+    <string name="name1">Carlos Roca</string>
+    <string name="name2">Ruby Sanz</string>
+    <string name="name3">Mary Rich</string>
+    <string name="name4">José Porto</string>
+    <string name="actividad">Actividad</string>
+    <string name="ver_m_s_movimientos">Ver más movimientos</string>
+    <string name="t1">El corte inglés</string>
+    <string name="a1">Pago aceptado</string>
+    <string name="m1">-50€</string>
+    <string name="m2">650€</string>
+    <string name="revisar_y_enviar">Revisar y enviar</string>
+    <string name="nameac2">David Paz</string>
+    <string name="email">davidpaz@correo.com</string>
+    <string name="este_es_el_dinero_de_la_entradas">Este es el dinero de la entradas… 🎬</string>
+    <string name="tipo_de_pago">Tipo de pago</string>
+    <string name="personal">Personal</string>
+    <string name="number">****9889</string>
+    <string name="tarifas_por_transacci_n">Tarifas por transacción</string>
+    <string name="_0_00">0,00€</string>
+    <string name="t_pagas">Tú pagas</string>
+    <string name="enviar_ahora">ENVIAR AHORA</string>
+    <string name="bbva">BBVA</string>
+    <string name="cuentas_bancarias_y_tarjetas">Cuentas bancarias y tarjetas</string>
+    <string name="content">Mantenemos tus datos financieros protegidos para que nadie vea la información confidencial.</string>
+    <string name="mastercard">Mastercard</string>
+    <string name="mis_tarjetas">Mis tarjetas</string>
+    <string name="hoy">HOY</string>
+    <string name="enviar_de_nuevo">Enviar de nuevo</string>
+    <string name="maria_lujan">Maria Lujan</string>
+</resources>
